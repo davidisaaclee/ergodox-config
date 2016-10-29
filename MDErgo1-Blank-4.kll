@@ -7,10 +7,9 @@ KLL = "0.3c";
 Date = "2015-09-12";
 Generator = "KIICONF 0.2";
 
-U"FUNCTION5" : U"SPACE";
 U"U" : U"P7";
 U"I" : U"P8";
-U"O" : U"LGUI";
+U"O" : U"P9";
 U"J" : U"P4";
 U"K" : U"P5";
 U"L" : U"P6";

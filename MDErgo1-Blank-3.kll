@@ -7,7 +7,6 @@ KLL = "0.3c";
 Date = "2015-09-12";
 Generator = "KIICONF 0.2";
 
-U"FUNCTION5" : U"FUN4";
 U"Y" : '+';
 U"U" : U"MINUS";
 U"I" : '*';

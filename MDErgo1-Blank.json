@@ -360,8 +360,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "FUN4",
+                    "label": "\u01924"
                 }
             }
         },
@@ -472,8 +472,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESCAPE",
-                    "label": "ESC"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 },
                 "1": {
                     "key": "#:flashMode()",
@@ -489,8 +489,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "SPACE",
-                    "label": "[&nbsp;]"
+                    "key": "FUN4",
+                    "label": "\u01924"
                 }
             }
         },
@@ -517,14 +517,6 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
-                },
-                "3": {
-                    "key": "FUN4",
-                    "label": "\u01924"
-                },
-                "4": {
-                    "key": "SPACE",
-                    "label": "[&nbsp;]"
                 }
             }
         },
@@ -767,8 +759,8 @@
                     "label": "\/"
                 },
                 "4": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "P9",
+                    "label": "P9"
                 }
             }
         },
@@ -974,8 +966,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             }
         },
