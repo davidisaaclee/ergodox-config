@@ -166,7 +166,7 @@ Guide_RM( 0 ) = { 1, 15, KEY_2, 0 };
 Guide_RM( 1 ) = { 2, 5, 0, 1, 0 };
 Guide_RM( 2 ) = { 1, 15, KEY_F, 0 };
 Guide_RM( 3 ) = { 1, 15, KEY_SEMICOLON, 0 };
-Guide_RM( 4 ) = { 2, 6, 1, 0, 1, 0 };
+Guide_RM( 4 ) = { 1, 15, KEY_ESC, 0 };
 Guide_RM( 5 ) = { 1, 15, KEY_J, 0 };
 Guide_RM( 6 ) = { 2, 5, 1, 1, 0 };
 Guide_RM( 7 ) = { 1, 15, KEY_QUOTE, 0 };
@@ -230,7 +230,7 @@ Guide_RM( 64 ) = { 1, 12, 0 };
 Guide_RM( 65 ) = { 1, 15, KEY_7, 0 };
 Guide_RM( 66 ) = { 1, 15, KEY_F4, 0 };
 Guide_RM( 67 ) = { 1, 15, KEY_3, 0 };
-Guide_RM( 68 ) = { 1, 15, KEY_ESC, 0 };
+Guide_RM( 68 ) = { 2, 6, 1, 0, 1, 0 };
 Guide_RM( 69 ) = { 1, 15, KEY_8, 0 };
 Guide_RM( 70 ) = { 1, 15, KEY_A, 0 };
 Guide_RM( 71 ) = { 1, 15, KEY_F14, 0 };
@@ -638,7 +638,7 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 72, 15 ),
 	Define_TM( 73, 69 ),
 	Define_TM( 74, 70 ),
-	Define_TM( 75, 68 ),
+	Define_TM( 75, 4 ),
 	Define_TM( 76, 71 ),
 	Define_TM( 77, 72 ),
 	Define_TM( 78, 73 ),
