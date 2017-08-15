@@ -567,8 +567,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             }
         },
