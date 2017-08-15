@@ -7,10 +7,12 @@ KLL = "0.3c";
 Date = "2015-09-12";
 Generator = "KIICONF 0.2";
 
+U"MINUS" : ledControl( 3, 15, 0 );
 U"Y" : '+';
 U"U" : U"MINUS";
 U"I" : '*';
 U"O" : U"SLASH";
+U"RBRACE" : ledControl( 4, 15, 0 );
 U"H" : '(';
 U"J" : '{';
 U"K" : U"LBRACE";
